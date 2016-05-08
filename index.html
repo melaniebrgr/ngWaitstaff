@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>ngWaitstaff</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+</head>
+<body>
+	<main ng-controller="myController">
+
+		<section id="mealDetails">
+			<form action="" name="mealDetails__form">
+				<h1>Enter the Mean Details</h1>
+				<div>
+					<label for="base-meal-price">Base Meal Price: $</label>
+					<input type="number" name="base-meal-price" required />
+				</div>
+				<div>
+					<label for="tax-rate">Tax Rate: %</label>
+					<input type="number" name="tax-rate" required />
+				</div>
+				<div>
+					<label for="tip-percentage">Tip Percentage: %</label>
+					<input type="number" name="tip-percentage" required />
+				</div>
+				<button type="submit" class="submit">Submit</button>
+				<button class="cancel">Cancel</button>
+			</form>
+		</section>
+
+		<section id="charges">
+			<h1>Customer Charges</h1>
+			<table>
+				<tr class="charges__subtotal">
+					<td>Subtotal:</td>
+					<td></td>
+				</tr>
+				<tr class="charges__tip">
+					<td>Tip:</td>
+					<td></td>					
+				</tr>
+				<tr class="charges__total">
+					<td>Total:</td>
+					<td></td>
+				</tr>
+			</table>
+		</section>
+
+		<section id="earnings">
+			<h1>My Earnings Info</h1>
+			<table>
+				<tr class="earnings__tip-total">
+					<td>Tip Total:</td>
+					<td></td>
+				</tr>
+				<tr class="earnings__meal-count">
+					<td>Meal Count:</td>
+					<td></td>					
+				</tr>
+				<tr class="earnings__avg-tip-per-meal">
+					<td>Average Tip Per Meal:</td>
+					<td></td>
+				</tr>				
+			</table>
+		</section>
+		<button class="reset">Reset</button>
+	</main>
+	<script src="js/app.css"></script>
+</body>
+</html>
