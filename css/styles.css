@@ -41,3 +41,52 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+html {
+  box-sizing: border-box;
+	font-family: sans-serif;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.6em;
+
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 0.6em;
+}
+
+main {
+	width: 70%;
+	margin: 1.2em auto;
+}
+
+section#mealDetails, section#charges, section#earnings { 
+	border: 1px solid black;
+	width: 49%;
+	padding: 1.2em;
+	margin-top: 1em;
+}
+
+section#mealDetails {
+	float: left;
+}
+
+section#charges, section#earnings { 
+	float: right;
+}
+
+button.reset {
+	clear: both;
+	float: right;
+	margin-top: 1em;
+}
+
+

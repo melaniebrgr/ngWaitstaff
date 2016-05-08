@@ -9,10 +9,10 @@
 </head>
 <body>
 	<main ng-controller="myController">
-
+		<h1>Waitstaff Calculator</h1>
 		<section id="mealDetails">
 			<form name="mealDetails__form" novalidate ng-submit="submit()">
-				<h1>Enter the Meal Details</h1>
+				<h2>Enter the Meal Details</h2>
 				<div>
 					<label for="base-meal-price">Base Meal Price: $</label>
 					<input type="number" name="base-meal-price" placeholder="0" ng-model="meal_data.baseMealPrice" required />
@@ -31,7 +31,7 @@
 		</section>
 
 		<section id="charges">
-			<h1>Customer Charges</h1>
+			<h2>Customer Charges</h2>
 			<table>
 				<tr class="charges__subtotal">
 					<td>Subtotal:</td>
@@ -49,7 +49,7 @@
 		</section>
 
 		<section id="earnings">
-			<h1>My Earnings Info</h1>
+			<h2>My Earnings Info</h2>
 			<table>
 				<tr class="earnings__tip-total">
 					<td>Tip Total:</td>
