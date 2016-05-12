@@ -1,4 +1,4 @@
-angular.module('myApp', [])
+angular.module('myApp', ['ngMessages'])
 	.controller('myController', function($scope) {
 		$scope.charges_data = {
 			subtotal: 0,
