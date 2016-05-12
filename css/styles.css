@@ -89,4 +89,10 @@ button.reset {
 	margin-top: 1em;
 }
 
+.error p {
+	margin: 0.6em 0;
+	border: 1px solid red;
+	color: red;
+}
+
 

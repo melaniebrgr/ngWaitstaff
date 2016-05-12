@@ -31,6 +31,12 @@ angular.module('myApp', ['ngMessages'])
 			for (var data in $scope.charges_data) {
 				$scope.charges_data[data] = 0;
 			}
-			console.log($scope.charges_data);
-		}
+		};
+
+		$scope.reset = function() {
+			$scope.cancel();
+			for (var data in $scope.master_data) {
+				$scope.master_data[data] = 0;
+			}
+		};
 	});
