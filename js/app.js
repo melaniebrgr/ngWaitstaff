@@ -19,10 +19,11 @@ angular.module('myApp', ['ngMessages'])
 			$scope.master_data.tipTotal += $scope.charges_data.tip;
 			$scope.master_data.mealCount += 1;
 			$scope.master_data.avgTips = $scope.master_data.tipTotal/$scope.master_data.mealCount;
+			$scope.cancel();
 		};
 
-		$scope.cancel = function(name) {
-			var form = document.getElementsByName(name)[0],
+		$scope.cancel = function() {
+			var form = document.getElementsByName('mealDetails__form')[0],
 				inputs = Array.from(form.getElementsByTagName('input'));
 			inputs.forEach(function(el) {
 				el.value = '';
