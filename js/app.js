@@ -36,8 +36,8 @@ angular.module('myApp', ['ngMessages', 'ngRoute'])
 			$rootScope.master_data.tipTotal += $scope.charges_data.tip;
 			$rootScope.master_data.mealCount += 1;
 			$rootScope.master_data.avgTips = $scope.master_data.tipTotal/$scope.master_data.mealCount;
-			console.log('submit', $rootScope.charges_data);
-			console.log('submit', $rootScope.charges_data);
+			console.log('meal charges', $rootScope.charges_data);
+			console.log('earnings', $rootScope.master_data);
 			$rootScope.clearMeal();
 		};
 
