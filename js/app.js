@@ -1,4 +1,18 @@
 angular.module('myApp', ['ngMessages', 'ngRoute'])
+	.config(['$routeProvider', function($routeProvider) {
+		$routeProvider.when('/', {
+			templateUrl: 'home.html',
+			controller: 'myController'
+		})
+		.when('/newmeal', {
+			templateUrl: 'newmeal.html',
+			controller: 'myController'
+		})
+		.when('/myearnings', {
+			templateUrl: 'myearnings.html',
+			controller: 'myController'
+		})
+	}])
 	.controller('myController', function($scope) {
 		$scope.charges_data = {
 			subtotal: 0,

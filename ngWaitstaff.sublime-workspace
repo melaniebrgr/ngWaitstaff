@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"api_sig"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"f",
+				"fz	font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ra",
+				"ranNUm"
+			],
+			[
+				"get",
+				"getId"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"e",
+				"entities"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"tr",
+				"trf-rx	transform: rotateX(${1:angle});"
+			],
+			[
+				"src",
+				"srcset	Attr"
+			],
+			[
+				"opa",
+				"opacity	opacity()"
+			],
+			[
+				"o",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"name",
+				"nameArr"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"gen",
+				"genotypes"
+			],
+			[
+				"prop",
+				"proportion"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"ran",
+				"ranUser"
+			],
+			[
+				"pu",
+				"publicGetRandomUser"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"dec",
+				"decodeRes1"
+			],
+			[
+				"res1",
+				"decodeRes1"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"ge",
+				"genotype"
+			],
+			[
+				"trf-ty",
+				"trf-ty	transform: translateY(${1:y});"
+			],
+			[
+				"trf-y",
+				"trf-ty	transform: translateY(${1:y});"
+			],
+			[
+				"tra",
+				"ta-r	text-align: right;"
+			],
+			[
+				"in",
+				"include	+include - Sass syntax"
+			],
+			[
+				"purple",
+				"purple-med"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"che",
+				"cheatSheet"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"cocktails",
+				"cocktailsInGame"
+			],
+			[
+				"su",
+				"successMsg"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ju",
+				"justRight"
+			],
+			[
+				"too",
+				"tooMany"
+			],
+			[
+				"selected",
+				"selectedCocktail"
+			],
+			[
+				"coc",
+				"cocktail-ingredients"
+			],
+			[
+				"input",
+				"inputArr"
+			],
+			[
+				"down",
+				"downArrowCount"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"is",
+				"isNumber"
+			],
+			[
+				"pr",
+				"priceInputs"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"price",
+				"priceData"
+			],
+			[
+				"pri",
+				"priceData"
+			],
+			[
+				"close",
+				"closeItemsList"
+			],
+			[
+				"old",
+				"oldQuantity"
+			],
+			[
+				"items",
+				"itemsList"
+			],
+			[
+				"matc",
+				"matchedProdIndex"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"set",
+				"setOnBlur"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"sr",
+				"stopPropagation"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"blo",
+				"blockquote"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"ri",
+				"richBrown"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"fl",
+				"floatLeft"
+			],
+			[
+				"bro",
+				"richBrown"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3149,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngWaitstaff"
+	],
+	"file_history":
+	[
+		"/Users/Melanie/Downloads/Website/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Actin/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Fascicles/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Fibers/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Myofibrils/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Myofilaments/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Skeletal_Muscle_Tour/css/style.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Whole_Muscle/css/style.css",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngFlickr/.gitignore",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/js/main.js",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Fibers/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Actin/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Myofilaments/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Myofibrils/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Fascicles/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Whole_Muscle/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Skeletal_Muscle_Tour/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Skeletal_Muscle_Tour/js/main.js",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_callout.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_article.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/imo/Skeletal_Muscle_Tour/css/dialog.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/styles.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_mixins.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_variables.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_base.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_imo.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/gulpfile.js",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/site/scss/_nav.scss",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/css/styles.css",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/js/scripts.js",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/package.json",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/js/scripts.min.js",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/build/index.html",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/.gitignore",
+		"/Users/Melanie/Documents/IMO/IMO demo 2016/trunk/css/style.css",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngWaitstaff/css/styles.css",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngWaitstaff/js/app.js",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngWaitstaff/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngMadLibs/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngMadLibs/css/styles.css",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngMadLibs/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/angular/ngMadLibs/.gitignore",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/collision/rect.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/flappy_bird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/build/js/app.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/id/id.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/collision/circle.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/detector.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/collision.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/physics.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/pipe.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/physics/physics.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/graphics.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/gulpfile.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/graphics/floor.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/size/rect.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/graphics/pipe.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/wallLeft.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/bird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/detectBird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/css/main.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/package.json",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/components/graphics/bird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/node_modules/os-browserify/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/build/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/gulpfile.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/package.json",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/floor.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/entities/ceiling.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/.gitignore",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/inputs.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/entities.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/site/js/systems/obstacles.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/js/flappy_bird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/js/entities/bird.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/css/main.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybirdECS/js/systems/graphics.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/patterns/_header.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/components/_button.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/base/_layout.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/styles.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/patterns/_intro.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/css/styles.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/node_modules/picturefill/dist/picturefill.min.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/patterns/_feature.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/base/_typography.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/base/_base.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/_dev/critical.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/base/_variables.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/base/_mixins.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/build/css/styles.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/components/_links.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/scss/components/_components.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/.gitignore",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/dist/css/main.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/site/.gitignore",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/dist/css/normalize.css",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/src/js/vendor/modernizr-2.8.3.min.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/dist/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/src/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 5/flappybird/bower_components/html5-boilerplate/dist/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_variables.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/.gitignore",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/step-two.php",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/js/app.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/results.php",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/test2.php",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/index.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/dev/test2.php",
+		"/Users/Melanie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/step-one.html",
+		"/Users/Melanie/Documents/Projects/Greensock workshop/SVG_lab/js/main.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_visualization.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_footer.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_header.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_description.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/styles.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/css/_base.scss",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 2/quiz/js/app.js",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/test.php",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/deliver/step-one.html",
+		"/Users/Melanie/Documents/Projects/thinkful/unit 4/gctavatar/deliver/step-two.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer",
+			"<i>",
+			"imo_remote_caption",
+			"caption",
+			"imo_remote_caption",
+			"Source",
+			"header",
+			"\n});",
+			"arrow",
+			"imo_depth5			",
+			"velocity",
+			"require",
+			"header",
+			"bourbon",
+			"courier",
+			"Courier",
+			"no-js",
+			"log",
+			"ranUnProportion",
+			"ranProportion",
+			"log",
+			"load",
+			"mix-info",
+			"log",
+			"vodka",
+			"Peychaud",
+			"addRow",
+			"log",
+			"calculateTotal()",
+			"handleQuantity",
+			"setOnListBlur",
+			"calculatePrice",
+			"setQuantity",
+			"box-size",
+			"$coolBrownTp",
+			"$coolBro",
+			"'",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"console.log",
+			"0",
+			"init",
+			"handleOnListBlur",
+			"setPrice"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 215.0
+	},
+	"pinned_build_system": "",
+	"project": "ngWaitstaff.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"main",
+				"site/js/main.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pipe",
+				"site/js/entities/pipe.js"
+			],
+			[
+				"gra",
+				"site/js/systems/graphics.js"
+			],
+			[
+				"collision",
+				"site/js/systems/collision.js"
+			],
+			[
+				"phyci",
+				"site/js/components/physics/physics.js"
+			],
+			[
+				"phy",
+				"site/js/components/physics/physics.js"
+			],
+			[
+				"rect",
+				"site/js/components/size/rect.js"
+			],
+			[
+				"floo",
+				"site/js/components/graphics/floor.js"
+			],
+			[
+				"walll",
+				"site/js/entities/wallLeft.js"
+			],
+			[
+				"bird",
+				"site/js/components/graphics/bird.js"
+			],
+			[
+				"graphi",
+				"site/js/systems/graphics.js"
+			],
+			[
+				"fla",
+				"site/js/flappy_bird.js"
+			],
+			[
+				"css",
+				"site/css/main.css"
+			],
+			[
+				"inde",
+				"site/index.html"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"",
+				"package.json"
+			],
+			[
+				"graphic",
+				"site/js/components/graphics/pipe.js"
+			],
+			[
+				"phys",
+				"site/js/components/physics/physics.js"
+			],
+			[
+				"app",
+				"build/js/app.js"
+			],
+			[
+				"rec",
+				"site/js/components/collision/rect.js"
+			],
+			[
+				"colli",
+				"site/js/systems/collision.js"
+			],
+			[
+				"graphics",
+				"site/js/systems/graphics.js"
+			],
+			[
+				"cir",
+				"site/js/components/collision/circle.js"
+			],
+			[
+				"coll",
+				"site/js/components/collision/rect.js"
+			],
+			[
+				"pip",
+				"site/js/components/graphics/pipe.js"
+			],
+			[
+				"floor",
+				"site/js/components/graphics/floor.js"
+			],
+			[
+				"collis",
+				"site/js/components/collision/circle.js"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"physic",
+				"site/js/components/physics/physics.js"
+			],
+			[
+				"bird.js",
+				"site/js/entities/bird.js"
+			],
+			[
+				"json",
+				"js/items.json"
+			],
+			[
+				"hea",
+				"css/_header.scss"
+			],
+			[
+				"va",
+				"css/_variables.scss"
+			],
+			[
+				"_he",
+				"css/_header.scss"
+			],
+			[
+				"sh",
+				"css/_shopping-list.scss"
+			],
+			[
+				"_gr",
+				"css/_grid.scss"
+			],
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "weather",
+		"selected_items":
+		[
+			[
+				"weather",
+				"~/Documents/Projects/thinkful/angular/ngFlickr/ngWeather.sublime-workspace"
+			],
+			[
+				"imo",
+				"~/Documents/IMO/IMO demo 2016/trunk/imoDemo.sublime-workspace"
+			],
+			[
+				"",
+				"~/Documents/Projects/thinkful/unit 5/flappybird/flappybird.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

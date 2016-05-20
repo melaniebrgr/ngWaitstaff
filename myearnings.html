@@ -1,0 +1,18 @@
+<section id="earnings">
+	<h2>My Earnings Info</h2>
+	<table>
+		<tr class="earnings__tip-total">
+			<td>Tip Total:</td>
+			<td>{{ master_data.tipTotal | number:2 }}</td>
+		</tr>
+		<tr class="earnings__meal-count">
+			<td>Meal Count:</td>
+			<td>{{ master_data.mealCount }}</td>					
+		</tr>
+		<tr class="earnings__avg-tip-per-meal">
+			<td>Average Tip Per Meal:</td>
+			<td>{{ master_data.avgTips | number:2 }}</td>
+		</tr>				
+	</table>
+</section>
+<button type="button" class="reset" ng-click="reset()">Reset</button>

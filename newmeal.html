@@ -1,0 +1,48 @@
+<section id="mealDetails">
+	<form name="mealDetails__form" novalidate ng-submit="submit()">
+		<h2>Enter the Meal Details</h2>
+		<div>
+			<label for="baseMealPrice">Base Meal Price: $</label>
+			<input type="number" name="baseMealPrice" placeholder="0" ng-model="meal_data.baseMealPrice" required />
+			<div class="error" ng-messages="mealDetails__form.baseMealPrice.$error" ng-if="mealDetails__form.baseMealPrice.$dirty">
+				<p ng-message="required">Make sure to enter the base meal price</p>
+			</div>					
+		</div>
+		<div>
+			<label for="taxRate">Tax Rate: %</label>
+			<input type="number" name="taxRate" placeholder="14" ng-model="meal_data.taxRate" required ng-maxlength=3 />
+			<div class="error" ng-messages="mealDetails__form.taxRate.$error" ng-if="mealDetails__form.taxRate.$dirty">
+				<p ng-message="required">Make sure to enter a tax rate</p>
+				<p ng-message="maxlength">The tax rate cannot be more than three digits</p>
+			</div>						
+		</div>
+		<div>
+			<label for="tipPercentage">Tip Percentage: %</label>
+			<input type="number" name="tipPercentage" placeholder="15" ng-model="meal_data.tipPercentage" required />
+			<div class="error" ng-messages="mealDetails__form.tipPercentage.$error" ng-if="mealDetails__form.tipPercentage.$dirty">
+				<p ng-message="required">Make sure to enter a tip percentage</p>
+			</div>						
+		</div>
+
+		<button type="submit" class="submit">Submit</button>
+		<button type="button" class="cancel" ng-click="cancel('mealDetails__form')">Cancel</button>
+	</form>
+</section>
+
+<section id="charges">
+	<h2>Customer Charges</h2>
+	<table>
+		<tr class="charges__subtotal">
+			<td>Subtotal:</td>
+			<td>{{ charges_data.subtotal | number:2}}</td>
+		</tr>
+		<tr class="charges__tip">
+			<td>Tip:</td>
+			<td>{{ charges_data.tip | number:2 }}</td>					
+		</tr>
+		<tr class="charges__total">
+			<td>Total:</td>
+			<td>{{ charges_data.total | number:2 }}</td>
+		</tr>
+	</table>
+</section>
