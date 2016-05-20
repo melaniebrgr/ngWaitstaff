@@ -43,7 +43,7 @@ table {
 }
 
 html {
-  box-sizing: border-box;
+  	box-sizing: border-box;
 	font-family: sans-serif;
 }
 *, *:before, *:after {
@@ -61,6 +61,15 @@ h2 {
 	font-weight: bold;
 	font-size: 1.2em;
 	margin-bottom: 0.6em;
+}
+
+ul.nav {
+	text-align: center;
+}
+
+ul.nav li {
+	display: inline-block;
+	text-decoration: none;
 }
 
 main {
