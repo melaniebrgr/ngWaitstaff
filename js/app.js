@@ -12,7 +12,16 @@ angular.module('myApp', ['ngMessages', 'ngRoute'])
 			templateUrl: 'myearnings.html',
 			controller: 'earningsCtrl'
 		})
+		.when('/error', {
+			template: '<p>Error – page not found</p>'
+		})
+		.otherwise('/error');
 	}])
+	.run(function($rootScope, $location) {
+	    $rootScope.$on('$routeChangeError', function() {
+	        $location.path('/error');
+	    });
+	})	
 	.controller('homeCtrl', function($scope) {
 		//Nothing here yet.
 	})
