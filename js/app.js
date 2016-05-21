@@ -1,4 +1,4 @@
-angular.module('myApp', ['ngMessages', 'ngRoute'])
+angular.module('myApp', ['ngMessages', 'ngRoute', 'ngAnimate'])
 	.config(function($routeProvider) {
 		$routeProvider.when('/', {
 			templateUrl: 'home.html',
