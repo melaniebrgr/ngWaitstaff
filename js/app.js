@@ -1,5 +1,5 @@
 angular.module('myApp', ['ngMessages', 'ngRoute'])
-	.config(['$routeProvider', function($routeProvider) {
+	.config(function($routeProvider) {
 		$routeProvider.when('/', {
 			templateUrl: 'home.html',
 			controller: 'homeCtrl'
@@ -16,16 +16,8 @@ angular.module('myApp', ['ngMessages', 'ngRoute'])
 			template: '<p>Error – page not found</p>'
 		})
 		.otherwise('/error');
-	}])
-	.run(function($rootScope, $location) {
-	    $rootScope.$on('$routeChangeError', function() {
-	        $location.path('/error');
-	    });
-	})	
-	.controller('homeCtrl', function($scope) {
-		//Nothing here yet.
 	})
-	.controller('mealCtrl', function($scope, $rootScope) {
+	.run(function($rootScope, $location) {
 		$rootScope.charges_data = {
 			subtotal: 0,
 			tip: 0,
@@ -36,6 +28,14 @@ angular.module('myApp', ['ngMessages', 'ngRoute'])
 			mealCount: 0,
 			avgTips: 0
 		};
+	    $rootScope.$on('$routeChangeError', function() {
+	        $location.path('/error');
+	    });
+	})	
+	.controller('homeCtrl', function($scope, $rootScope) {
+		// Nothing here
+	})
+	.controller('mealCtrl', function($scope, $rootScope) {
 
 		$scope.submit = function() {
 			$rootScope.charges_data.subtotal = $scope.meal_data.baseMealPrice * (1+($scope.meal_data.taxRate/100));
